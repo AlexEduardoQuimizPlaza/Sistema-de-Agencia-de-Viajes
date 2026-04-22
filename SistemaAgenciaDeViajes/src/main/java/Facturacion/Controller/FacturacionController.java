@@ -8,6 +8,6 @@ package Facturacion.Controller;
  *
  * @author Aleiyv
  */
-public class slkdsakda {
+public class FacturacionController {
     
 }
